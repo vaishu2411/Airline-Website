@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right,black,rgb(207, 207, 202), rgb(68, 67, 67), rgb(50, 53, 50), rgb(3, 3, 19),rgb(20, 19, 19), violet);
+    height: auto;
+}
+header
+{
+    background-image: url("digital-digital-art-artwork-illustration-abstract-hd-wallpaper-preview.jpg");
+  
+     
+    background-color:rgba(0, 0, 0, 0.2);
+    background-blend-mode:soft-light;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+ 
+
+label
+{
+    text-decoration: none;
+     
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    color:gold;
+    font-weight: 800;
+     
+    
+    padding-top:5%;
+
+}
+
